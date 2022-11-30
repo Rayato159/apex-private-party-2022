@@ -1,0 +1,77 @@
+[
+    {
+        "id": "L01",
+        "name": "กวิสรา พชรจอง",
+        "character": "Lifeline"
+    },
+    {
+        "id": "L02",
+        "name": "Bamm's Pattharavadee",
+        "character": "Horizon"
+    },
+    {
+        "id": "L03",
+        "name": "Happy Srichaiyan",
+        "character": "Mirage"
+    },
+    {
+        "id": "L04",
+        "name": "Korawit Sangouvattana",
+        "character": "Revenant"
+    },
+    {
+        "id": "L05",
+        "name": "Napat Thumsurak",
+        "character": "Pathfider"
+    },
+    {
+        "id": "L06",
+        "name": "Nitkamon C. Saelim",
+        "character": "Valkyrie"
+    },
+    {
+        "id": "L07",
+        "name": "Panuvit Phokaethai",
+        "character": "Octane"
+    },
+    {
+        "id": "L08",
+        "name": "Passagon Yigapat",
+        "character": "Caustic"
+    },
+    {
+        "id": "L09",
+        "name": "Poninie Ampornsri",
+        "character": "Vantage"
+    },
+    {
+        "id": "L10",
+        "name": "Pum Pkinz",
+        "character": "Wraith"
+    },
+    {
+        "id": "L11",
+        "name": "Rinda Jinparu",
+        "character": "Wattson"
+    },
+    {
+        "id": "L12",
+        "name": "Sellan Cossu",
+        "character": "Rampart"
+    },
+    {
+        "id": "L13",
+        "name": "Siri P Ploy",
+        "character": "Loba"
+    },
+    {
+        "id": "L14",
+        "name": "Somprattana Potarin",
+        "character": "Bloodhound"
+    },
+    {
+        "id": "L15",
+        "name": "Thanit Meehatchai",
+        "character": "Crypto"
+    }
+]
