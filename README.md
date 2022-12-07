@@ -151,6 +151,7 @@
 
 <h2>🕞 Schedule (In progress...)</h2>
 
+<h3>Round 1 (10:00 - 11:45)</h3>
 <table>
   <tr>
     <th>Time</th>
@@ -158,21 +159,252 @@
     <th>Layer</th>
   </tr>
   <tr>
-    <td rowspan="4">10:00-10:30</td>
+    <td rowspan="4">10:00-10:20</td>
   </tr>
   <tr>
     <td>คุณหยอย</td>
-    <td>Rinda Jinparu</td>
+    <td>Lifeline</td>
   </tr>
   <tr>
     <td>คุณพิศ</td>
-    <td>Kantapich Buthdong</td>
+    <td>Horizon</td>
   </tr>
   <tr>
     <td>คุณอิต</td>
-    <td>Pum Pkinz</td>
+    <td>Mirage</td>
+  </tr>
+  <tr>
+    <td rowspan="4">10:20-10:40</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Revenant</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Pathfider</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Valkyrie</td>
+  </tr>
+  <tr>
+    <td rowspan="4">10:40-11:00</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Octane</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Caustic</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Vantage</td>
+  </tr>
+  <tr>
+    <td rowspan="4">11:05-11:25</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Wraith</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Wattson</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Rampart</td>
+  </tr>
+  <tr>
+    <td rowspan="4">11:25-11:45</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Loba</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Bloodhound</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Crypto</td>
   </tr>
 </table>
+
+<h3>Round 2 (12:40-14:25)</h3>
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Photographer</th>
+    <th>Layer</th>
+  </tr>
+  <tr>
+    <td rowspan="4">12:40-13:00</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Crypto</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Loba</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Bloodhound</td>
+  </tr>
+  <tr>
+    <td rowspan="4">13.00-13:20</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Rampart</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Wraith</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Wattson</td>
+  </tr>
+  <tr>
+    <td rowspan="4">13:20-13:40</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Vantage</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Octane</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Caustic</td>
+  </tr>
+  <tr>
+    <td rowspan="4">13:45-14:05</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Valkyrie</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Revenant</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Pathfider</td>
+  </tr>
+  <tr>
+    <td rowspan="4">14:05-14:25</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Mirage</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Lifeline</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Horizon</td>
+  </tr>
+</table>
+
+<h3>Round 3 (14:25-16:10)</h3>
+
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Photographer</th>
+    <th>Layer</th>
+  </tr>
+  <tr>
+    <td rowspan="4">14:25-14:45</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Horizon</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Mirage</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Lifeline</td>
+  </tr>
+   <tr>
+    <td rowspan="4">14:45-15:05</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Pathfider</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Valkyrie</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Revenant</td>
+  </tr>
+  <tr>
+    <td rowspan="4">15:10-15:30</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Caustic</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Vantage</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Octane</td>
+  </tr>
+  <tr>
+    <td rowspan="4">15.30-15:50</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Wattson</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Rampart</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Wraith</td>
+  </tr>
+  <tr>
+    <td rowspan="4">15:50-16:10</td>
+  </tr>
+  <tr>
+    <td>คุณหยอย</td>
+    <td>Bloodhound</td>
+  </tr>
+  <tr>
+    <td>คุณพิศ</td>
+    <td>Crypto</td>
+  </tr>
+  <tr>
+    <td>คุณอิต</td>
+    <td>Loba</td>
+  </tr>
+</table>
+
+<h2>***Note that 16:10-17:00 is going to be the group photo</h2>
 
 <h2>📁 Folder Structure</h2>
 
