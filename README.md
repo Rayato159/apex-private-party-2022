@@ -3,6 +3,9 @@
 <p><strong>📆 Date:</strong> 11/12/2022<br>
 <strong>🕛 Time:</strong> 10:00-17:00 (7 hours)<br>
 
+<h2>Photo Showcase</h2>
+<img src="./images/KNT00942.JPG">
+
 <h2>😎 Layer List</h2>
 
 <table>
@@ -110,15 +113,16 @@
     <td>Bloodhound</td>
     <td><a href="https://drive.google.com/drive/u/1/folders/1UoxIuZbcSr5XlhSsezKjf12JBOXyYhQv" target="_blank">link</a></td>
     <td><a href="https://www.facebook.com/ojiisan.sp" target="_blank">Somprattana Potarin</a></td>
-  </tr>
   <tr>
     <td>L15</td>
-    <td>Thanit Meehatchai</td>
+    <td>Ruangyot Nanchiang</td>
     <td>Crypto</td>
     <td><a href="https://drive.google.com/drive/u/1/folders/1Ie-0rMHel3oCgvJyADqLQXK8m0wERk1p" target="_blank">link</a></td>
-    <td><a href="https://www.facebook.com/bak.krasuang" target="_blank">Thanit Meehatchai</a></td>
+    <td><a href="https://www.facebook.com/Rayato160" target="_blank">Ruangyot Nanchiang</a></td>
   </tr>
 </table>
+
+***Thanit Meehatchai was sick.
 
 <h2>📸 Photographer List</h2>
 
@@ -149,7 +153,7 @@
   </tr>
 </table>
 
-<h2>🕞 Schedule (In progress...)</h2>
+<h2>🕞 Schedule</h2>
 
 <h3>Round 1 (10:00 - 11:45)</h3>
 <table>
@@ -405,6 +409,12 @@
 </table>
 
 <h2>***Note that 16:10-17:00 is going to be the group photo</h2>
+
+<h2>💸 Payment</h2>
+<p><a href="https://docs.google.com/spreadsheets/d/1J5dWGRE9kqA_JlmhIJzCjUFhJ_HqRgdJuYJv80mBDzQ/edit#gid=1477220229">https://docs.google.com/spreadsheets/d/1J5dWGRE9kqA_JlmhIJzCjUFhJ_HqRgdJuYJv80mBDzQ/edit#gid=1477220229</a><p>
+
+<h2>🍪 Satisfaction Survey Form</h2>
+<p><a href="https://docs.google.com/forms/d/18rMnLMEmHSHXp7bgOT1ip9_pPu9f3aHSFjkGadtviCU/edit?ts=6396db0c">https://docs.google.com/forms/d/18rMnLMEmHSHXp7bgOT1ip9_pPu9f3aHSFjkGadtviCU/edit?ts=6396db0c</a><p>
 
 <h2>📁 Folder Structure</h2>
 
